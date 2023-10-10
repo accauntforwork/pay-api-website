@@ -1,0 +1,74 @@
+.contact h3 {
+  margin-top: 82px;
+  width: 730px;
+  height: 133px;
+  color: #36536b;
+  font-size: 56px;
+  line-height: 56px; /* 100% */
+  letter-spacing: -0.431px;
+  margin-bottom: 43px;
+}
+.intput {
+  margin-bottom: 24px;
+  background: inherit;
+  padding: 0 58px 17px 20px;
+  border-bottom: 1px solid #36536b35;
+
+  color: #36536b;
+  font-size: 15px;
+  line-height: 25px; /* 166.667% */
+  letter-spacing: -0.115px;
+}
+.padding-plus {
+  padding-bottom: 80px;
+}
+.formm {
+  flex-direction: column;
+  margin-right: 120px;
+}
+
+.checkbox {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  opacity: 0.25;
+  background: #36536b;
+}
+.stay-up p {
+  margin-left: 26px;
+  display: inline-block;
+
+  width: 395px;
+  color: #36536b;
+  font-size: 15px;
+  line-height: 25px; /* 166.667% */
+  letter-spacing: -0.115px;
+}
+.about-right {
+  width: 445px;
+  color: #36536b;
+  font-size: 24px;
+  line-height: 32px; /* 133.333% */
+  letter-spacing: -0.185px;
+  opacity: 0.75;
+}
+.about-right h4 {
+  margin-top: 370px;
+}
+.partner-brands {
+  margin-top: 47px;
+}
+.brands:nth-child(2) {
+  margin-top: 44px;
+}
+.about-left button {
+  margin-top: 40px;
+  width: 152px;
+  height: 48px;
+  border-radius: 24px;
+  border: 1px solid #36536b;
+  color: #36536b;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.115px;
+}

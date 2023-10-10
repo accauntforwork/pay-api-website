@@ -1,0 +1,41 @@
+.pricing-cards {
+  gap: 30px;
+}
+.pricing h3 {
+  margin-top: 82px;
+  color: #36536b;
+  font-size: 56px;
+  line-height: 56px; /* 100% */
+  letter-spacing: -0.431px;
+  margin-bottom: 72px;
+}
+.pricing-card div {
+  line-height: 28px; /* 175% */
+  margin-top: 8px;
+}
+.pricing-card h4 {
+  padding: 72px 0 16px 0;
+  color: #ba4270;
+  font-size: 32px;
+  line-height: 40px; /* 125% */
+  letter-spacing: -0.246px;
+}
+.pricing-card p {
+  margin-top: 16px;
+
+  width: 350px;
+  color: #6c8294;
+  font-size: 15px;
+  line-height: 28px; /* 186.667% */
+  margin-bottom: 8px;
+}
+.pricing-card h2 {
+  color: #36536b;
+  font-size: 56px;
+  line-height: 72px; /* 128.571% */
+  letter-spacing: -0.431px;
+}
+.xira {
+  color: #36536b;
+  padding-left: 12px;
+}

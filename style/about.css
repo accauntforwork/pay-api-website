@@ -1,0 +1,46 @@
+.about h2 {
+  margin-top: 82px;
+  margin-left: 260px;
+  width: 730px;
+  height: 189px;
+  color: #36536b;
+  font-size: 56px;
+  line-height: 56px; /* 100% */
+  letter-spacing: -0.431px;
+  margin-bottom: 51px;
+}
+.about h3 {
+  margin-left: 260px;
+  width: 255px;
+  color: #36536b;
+  font-size: 32px;
+  line-height: 40px; /* 125% */
+  letter-spacing: -0.246px;
+}
+.about p {
+  margin-bottom: 56px;
+  width: 635px;
+  flex-shrink: 0;
+  color: #6c8294;
+  font-size: 15px;
+  line-height: 28px; /* 186.667% */
+}
+
+.about-team {
+  margin: 72px 0;
+  padding: 17px 165px;
+  gap: 30px;
+  justify-content: space-between;
+}
+.about-team h6 {
+  width: 350px;
+  color: #36536b;
+  line-height: 28px; /* 175% */
+}
+.about-team h4 {
+  width: 350px;
+  color: #ba4270;
+  font-size: 56px;
+  line-height: 72px; /* 128.571% */
+  letter-spacing: -0.431px;
+}
